@@ -24,7 +24,7 @@ font-size:large;
  }
  .btn{
  color:#fff;
-
+ cursor: pointer;
 margin-top:40px;
 width:102%;
 background-color:#0575B3;
